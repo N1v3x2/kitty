@@ -1,0 +1,3 @@
+[submodule "kitty_gruvbox_theme"]
+	path = kitty_gruvbox_theme
+	url = ./kitty_gruvbox_theme
